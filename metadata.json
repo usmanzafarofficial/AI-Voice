@@ -1,0 +1,7 @@
+{
+  "name": "Urdu CV AI Master",
+  "description": "A high-end professional platform for building ATS-friendly CVs with AI-powered Urdu voice narration features.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
